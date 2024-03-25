@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+.first-section-div{
+    display: flex;
+    justify-content: center;
+}
+.first-section-photo{
+    height: 400px;
+}
+.title-div{
+    margin-top: 50px;
+    width: 50%;
+}
+.title-div p{
+    margin-top: 20px;
+}
+.title-div button{
+    margin-top: 100px;
+    background: #4a4a4b;
+    border: none;
+    padding: 15px;
+    color: white;
+    transition-duration: 0.5s ;
+}
+.title-div button:hover{
+    background: #ff2020;
+}
+.watch-photo{
+    max-width: 360px;
+    width: 100%;
+}
+.second-section-div{
+    display: flex;
+    text-align: center;
+}
+.price{
+    color: #ff2020;
+}
+.second-section-article{
+    margin-left: 20px;
+}
