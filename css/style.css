@@ -17,7 +17,7 @@ body{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-
+    margin-top: 50px;
 }
 .first-section-div{
     display: flex;
@@ -33,15 +33,16 @@ body{
 .title-div p{
     margin-top: 20px;
 }
-.title-div button{
+.title-div .shop-now{
     margin-top: 100px;
     background: #4a4a4b;
     border: none;
     padding: 15px;
     color: white;
     transition-duration: 0.5s ;
+    margin-top: 100px;
 }
-.title-div button:hover{
+.title-div .shop-now:hover{
     background: #ff2020;
 }
 .watch-photo{
