@@ -1,0 +1,19 @@
+.footer-main-div{
+    display: flex;
+    margin-top: 50px;
+}
+.footer-child-div{
+    margin-left: 100px;
+}
+.new-products{
+    margin-left: 100px;
+}
+.footer-ul li a{
+    color: black;
+}
+.footer-ul li{
+    margin-top: 10px;
+}
+.footer-ul li a:hover{
+    color: #ff2020;
+}
