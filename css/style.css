@@ -61,6 +61,7 @@ body{
 .second-section-article{
     margin-right: 20px;
     margin-top: 30px;
+    text-align: center;
 }
 .third-section-title{
     text-align: center;
@@ -114,4 +115,24 @@ body{
 .fifth-section-main-div p{
     width: 75%;
     margin-top: 20px;
+}
+/* page styles */
+.page-h1{
+    text-align: center;
+    font-size: 30px;
+    padding: 100px;
+    background-color: #ff2020;
+}
+.second-section-page-div{
+    display: flex;
+    flex-wrap: wrap;
+}
+.page-watches-select{
+    margin-top: 100px;   
+}
+#select{
+    font-size: 20px;
+    border: none;
+    padding: 10px;
+    border-radius: 24px;
 }
